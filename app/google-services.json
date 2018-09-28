@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "616693783174",
+    "firebase_url": "https://demolist-c501d.firebaseio.com",
+    "project_id": "demolist-c501d",
+    "storage_bucket": "demolist-c501d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616693783174:android:82520c9a84b48f27",
+        "android_client_info": {
+          "package_name": "com.example.fahid.demolistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616693783174-e140kqs40trmlqn8m2i80j9k31uhifgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkNMqC5ebfvEK0-W9w128ApFjJwnjxueg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
